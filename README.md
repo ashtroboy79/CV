@@ -11,13 +11,23 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aircraft Research Agency** (January 2018 to June 2021)  
+_Research Engineer_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**LUSH** (November 2015 to December 2017)  
+_Sales Assistant_
+
+- Any experience relevent to software development
+
+**RWDI** (2010 to August 2015)  
+_Senior Wind Tunnel Operator_
+
+- Any experience relevent to software development
+
+**RAF** (2002 to 2004)  
+_Propulsion Technician_
 
 - Any experience relevent to software development
 
@@ -53,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2021 to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +72,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bedfordshire (2006 to 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- FdSc Network Management
+- Pass
+- 
 
-#### Any other qualifications
+#### London Southbank University (2005 to 2006)
 
-That in some arguable way make you a better software developer or well-rounded person
+- PGCE(Secondary Maths)
+- Pass
+
+#### University College London (1997 to 2000)
+
+- BSc Physics
+- 2:2
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am an avid RPG player and boardgamer, enjoying the social interaction therein. I also enjoy playing strategy based computer games. One of my favourite ways to unwind is to paint miniature figures. 
