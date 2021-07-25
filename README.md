@@ -1,6 +1,6 @@
 ## Ahsan Rasul
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a dynamic and enthusiastic individual, who enjoys meeting challenges and solving problems, as a team or as an individual. Since graduating from university, I have worked for various aerodynamic testing facilities. .
 
 ## Projects
 
@@ -11,10 +11,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Aircraft Research Agency** (January 2018 to June 2021)  
+**Aircraft Research Association** (January 2018 to June 2021)  
 _Research Engineer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Working within a team environment in the preperation and assembly of models and rigs for testing to defined quality standards, giving consideration to schedule and costs.
+- Operating the Transonic Wind Tunnel, and complementary test facilities
 
 **LUSH** (November 2015 to December 2017)  
 _Sales Assistant_
@@ -33,24 +34,10 @@ _Propulsion Technician_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Fast Learner
 
--STAR
--What was the situation/task? (ST)
+- During my at RWDI, I was able to quickly pick up the necessary skills for my role, such that when the Senior Wind Tunnel Operator left within 3 months of me starting, I was the sole Windtunnel Operator, and was able to maintain the busy testing schedule. While at A.R.A. i was able to impress my team leader with the speed that I learnt to operate the transonic windtunnel, that I recieved a payrise as soon as my probation period was over. 
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
 
 #### Another Skill
 
