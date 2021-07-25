@@ -35,18 +35,18 @@ _Propulsion Technician_
 ## Skills
 
 #### Fast Learner
-
 - During my at RWDI, I was able to quickly pick up the necessary skills for my role, such that when the Senior Wind Tunnel Operator left within 3 months of me starting, I was the sole Windtunnel Operator, and was able to maintain the busy testing schedule. While at A.R.A. i was able to impress my team leader with the speed that I learnt to operate the transonic windtunnel, that I recieved a payrise as soon as my probation period was over. 
 
 
-#### Another Skill
+#### Attention to Detail
+- Between working at RWDI, A.R.A., learning to code and my time minaiture painting I have learnt to pay attention to the details, to ensure the outcome desired.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+#### Socialiable
+- As an avid boardgamer attending meetups means meeting new people to play with, and as such requires good social skills
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Team Player
+- Am able to fit myself around the team as required.
+
 
 ## Education
 
@@ -63,7 +63,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - FdSc Network Management
 - Pass
-- 
 
 #### London Southbank University (2005 to 2006)
 
