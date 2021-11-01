@@ -6,8 +6,11 @@ I am a dynamic and enthusiastic individual, who enjoys meeting challenges and so
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Dev's Full Stack Nightmare**| A proceduarally generated dungeon crawler game | Node.JS, Express, Cypress, Jasmine , Postgres, Heroku & P5.js |
+| **Acebook** | A Facebook clone. | Node.js, Postgres, Jest, Cypress, Handlebars.js              |
+
+**Makers Academy (July 2021 - October 2021)
+- Successfully completed an intensive 3 month bootcamp, learning the fundimentals of TDD using Rspec, Cypress, Jest and Jasmine, Agile working practices, as well as Fullstack Development using Ruby and Javascript.
 
 ## Work Experience
 
@@ -20,17 +23,18 @@ _Research Engineer_
 **LUSH** (November 2015 to December 2017)  
 _Sales Assistant_
 
-- Any experience relevent to software development
+- Working as part of a varied team
+- Able to translate customer needs into appropriate products and routines
 
 **RWDI** (2010 to August 2015)  
 _Senior Wind Tunnel Operator_
 
-- Any experience relevent to software development
+- Learning the companies proprietary testing suite
+- Self teaching how to implement new tests from documentation
+- Training other wind tunnel operators and assisting with training documentation
 
 **RAF** (2002 to 2004)  
 _Propulsion Technician_
-
-- Any experience relevent to software development
 
 ## Skills
 
