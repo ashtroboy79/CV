@@ -1,16 +1,43 @@
 ## Ahsan Rasul
 
-I am a dynamic and enthusiastic individual, who enjoys meeting challenges and solving problems, as a team or as an individual. Since graduating from university, I have worked for various aerodynamic testing facilities. .
+I am a dynamic and enthusiastic individual, who enjoys meeting challenges and solving problems, as a team or as an individual. Since graduating from university, I have worked for various aerodynamic testing facilities.
+
+I had always been interested in computer systems and had always wanted to pursue a career in programming, so that when [Makers Academy](https://www.makers.tech/) was recommended to me I realised that their software development bootcamp was the perfect next step. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Dev's Full Stack Nightmare**| A proceduarally generated dungeon crawler game | Node.JS, Express, Cypress, Jasmine , Postgres, Heroku & P5.js |
-| **Acebook** | A Facebook clone. | Node.js, Postgres, Jest, Cypress, Handlebars.js              |
+| **[Dev's Full Stack Nightmare](https://github.com/ashtroboy79/devs-full-stack-nightmare)**| A proceduarally generated dungeon crawler game | Node.JS, Express, Cypress, Jasmine , Postgres, Heroku & P5.js |
+| **[Acebook](https://github.com/ashtroboy79/acebook-it-does-not-node-well)** | A Facebook clone. | Node.js, Postgres, Jest, Cypress, Handlebars.js              |
+| **[Bank](https://github.com/ashtroboy79/bank)** | A simple command line app, highlighting my coding process| Ruby, Rspec |
 
-**Makers Academy (July 2021 - October 2021)
-- Successfully completed an intensive 3 month bootcamp, learning the fundimentals of TDD using Rspec, Cypress, Jest and Jasmine, Agile working practices, as well as Fullstack Development using Ruby and Javascript.
+
+## Education
+
+#### Makers Academy (July 2021 to October 2021)
+
+-  Successfully completed an intensive 3 month bootcamp, learning the fundimentals of TDD using Rspec, Cypress, Jest and Jasmine, Agile working practices, as well as Fullstack Development using Ruby and Javascript(Node.js).
+- Frequently worked in different pairs over a period of time, requiring flexibility, teamwork and communication.
+- While the core languages covered were Ruby and JavaScript, the bootcamp has provided me with the skills to learn new languages quickly.
+- Learnt about the MVC model and used PostgresSQL
+- Have gotten familiar with version control using Git/Github
+
+#### University of Bedfordshire (2006 to 2010)
+
+- FdSc Network Management
+- Pass
+
+#### London Southbank University (2005 to 2006)
+
+- PGCE(Secondary Maths)
+- Pass
+
+#### University College London (1997 to 2000)
+
+- BSc Physics
+- 2:2
+
 
 ## Work Experience
 
@@ -43,40 +70,14 @@ _Propulsion Technician_
 
 
 #### Attention to Detail
-- Between working at RWDI, A.R.A., learning to code and my time minaiture painting I have learnt to pay attention to the details, to ensure the outcome desired.
+- Between working at RWDI, A.R.A., learning to code and my time painting miniatures, I have learnt to pay attention to the details, to ensure the desired outcome.  This also comes through in debugging and problem solving, where my use of console logs is well known in my coding groups.
 
 #### Socialiable
 - As an avid boardgamer attending meetups means meeting new people to play with, and as such requires good social skills
 
 #### Team Player
-- Am able to fit myself around the team as required.
+- I am able to fit myself around the team as required, and pair programming has allowed me to develop my communication and problem solving skills.  
 
-
-## Education
-
-#### Makers Academy (July 2021 to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### University of Bedfordshire (2006 to 2010)
-
-- FdSc Network Management
-- Pass
-
-#### London Southbank University (2005 to 2006)
-
-- PGCE(Secondary Maths)
-- Pass
-
-#### University College London (1997 to 2000)
-
-- BSc Physics
-- 2:2
 
 ## Hobbies
 
