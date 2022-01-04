@@ -2,7 +2,7 @@
 
 I am a dynamic and enthusiastic individual, who enjoys meeting challenges and solving problems, as a team or as an individual. Since graduating from university, I have worked for various aerodynamic testing facilities.
 
-I had always been interested in computer systems and had always wanted to pursue a career in programming, so that when [Makers Academy](https://www.makers.tech/) was recommended to me I realised that their software development bootcamp was the perfect next step. 
+I had always been interested in computer systems and had always wanted to pursue a career in programming, so that when [Makers Academy](https://www.makers.tech/) was recommended to me I realised that their software development bootcamp was the perfect next step. I really enjoy working out how things work, and why things work in a particular way.
 
 ## Projects
 
@@ -44,7 +44,7 @@ I had always been interested in computer systems and had always wanted to pursue
 **Aircraft Research Association** (January 2018 to June 2021)  
 _Research Engineer_
 
-- Working within a team environment in the preperation and assembly of models and rigs for testing to defined quality standards, giving consideration to schedule and costs.
+- Working within a team environment in the preparation and assembly of models and rigs for testing to defined quality standards, giving consideration to schedule and costs.
 - Operating the Transonic Wind Tunnel, and complementary test facilities
 
 **LUSH** (November 2015 to December 2017)  
