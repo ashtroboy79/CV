@@ -17,7 +17,7 @@ I had always been interested in computer systems and had always wanted to pursue
 
 #### Makers Academy (July 2021 to October 2021)
 
--  Successfully completed an intensive 3 month bootcamp, learning the fundimentals of TDD using Rspec, Cypress, Jest and Jasmine, Agile working practices, as well as Fullstack Development using Ruby and Javascript(Node.js).
+-  Successfully completed an intensive 3 month bootcamp, learning the fundamentals of TDD using Rspec, Cypress, Jest and Jasmine, Agile working practices, as well as Fullstack Development using Ruby and Javascript(Node.js).
 - Frequently worked in different pairs over a period of time, requiring flexibility, teamwork and communication.
 - While the core languages covered were Ruby and JavaScript, the bootcamp has provided me with the skills to learn new languages quickly.
 - Learnt about the MVC model and used PostgresSQL
